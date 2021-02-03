@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/twk1024/DIA-WaterdogXboxAuth
+build-by-default: true
+branches:
+- main
+projects:
+  DIA-WaterdogXboxAuth:
+    path: ""
+...

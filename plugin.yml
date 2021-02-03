@@ -1,0 +1,6 @@
+name: DIA-WaterdogXboxAuth
+author: dokidia
+website: https://diamc.kr
+api: 3.0.0
+main: dokidia\Main
+version: 1.0.0
